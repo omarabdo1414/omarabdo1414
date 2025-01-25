@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Abd El-Aleem Ahmed</h1>
-<h3 align="center">Embedded Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <img align="right" alt="Coding" width=400 src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **2 ECU Communication**
+- 🔭 I’m currently working on **Front-end Development**
 
-- 🌱 I’m currently learning **Embedded Linux and Qt Creator**
+- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **C++, ROS, Embedded System**
+- 💬 Ask me about **C++, Web, React, JavaScript, Python, ROS**
 
 - 📫 How to reach me **oabdo6063@gmail.com**
 
-- ⚡ Fun fact **I'm a parkour player**
+- ⚡ Fun fact **I'm a parkour player. So, I can flip**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
