@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Abd El-Aleem Ahmed</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <img align="right" alt="Coding" width=400 src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **C++, Web, React, JavaScript, Python, ROS**
+- 💬 Ask me about **React, Next.js, Tailwind, JavaScript, TypeScript, Node.js, Python, C++,**
 
 - 📫 How to reach me **oabdo6063@gmail.com**
 
-- ⚡ Fun fact **I'm a parkour player. So, I can flip**
+- ⚡ Fun fact **I'm a parkour player. So, I can do a back flip**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
